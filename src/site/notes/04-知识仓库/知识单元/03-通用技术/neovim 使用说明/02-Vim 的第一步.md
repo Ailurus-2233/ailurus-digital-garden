@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04//03/neovim/02-vim/","title":"02-Vim 的第一步","tags":["开发工具","neovim"]}
+{"title":"02-Vim 的第一步","note_type":"knowledge_base","description":"如何使用 neovim 打开文件，并进行编辑","tags":["开发工具","neovim"],"create_time":"2024-08-13","update_time":"2025-02-19","dg-home":false,"dg-publish":true,"aliase":null,"root":"neovim 使用说明","permalink":"/04-知识仓库/知识单元/03-通用技术/neovim 使用说明/02-Vim 的第一步/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-08-13","updated":"2025-02-19"}
 ---
 
 

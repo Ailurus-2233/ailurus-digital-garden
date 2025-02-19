@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04//03/docker/","title":"常用 Docker 容器安装","tags":["docker","docker compose"]}
+{"title":"常用 Docker 容器安装","note_type":"knowledge_summary","description":"常用容器的部署方法","tags":["docker","docker compose"],"create_time":"2024-08-12","update_time":"2025-02-19","dg-home":false,"dg-publish":true,"aliase":[],"knowledge_type":"通用技术","root":"Docker 使用记录","permalink":"/04-知识仓库/归纳目录/03-通用技术/常用 Docker 容器安装/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-08-12","updated":"2025-02-19"}
 ---
 
 

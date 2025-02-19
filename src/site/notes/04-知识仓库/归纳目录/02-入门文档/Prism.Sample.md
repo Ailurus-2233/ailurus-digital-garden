@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04//02/prism-sample/","title":"Prism.Sample","tags":["样例代码","Prism","WPF"]}
+{"title":"Prism.Sample","note_type":"knowledge_summary","description":"官方的样例代码","tags":["样例代码","Prism","WPF"],"create_time":"2024-07-23","update_time":"2025-02-19","dg-home":false,"dg-publish":true,"aliase":[],"knowledge_type":"入门文档","root":"知识仓库目录","permalink":"/04-知识仓库/归纳目录/02-入门文档/Prism.Sample/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-07-23","updated":"2025-02-19"}
 ---
 
 

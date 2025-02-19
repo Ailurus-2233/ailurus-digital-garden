@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04//06//winget/","title":"Winget 启用代理","tags":["代理","windows","winget"]}
+{"title":"Winget 启用代理","note_type":"knowledge_base","description":"启用 Winget 配置代理以及使用代理","tags":["代理","windows","winget"],"create_time":"2025-02-06","update_time":"2025-02-19","dg-home":false,"dg-publish":true,"knowledge_type":"其他归纳","root":"系统工具杂项","permalink":"/04-知识仓库/知识单元/06-其他归纳/系统工具杂项/Winget 启用代理/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-02-06","updated":"2025-02-19"}
 ---
 
 

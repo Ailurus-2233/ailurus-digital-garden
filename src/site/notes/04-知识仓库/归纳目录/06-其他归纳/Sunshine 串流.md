@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04//06/sunshine/","title":"Sunshine 串流","tags":["串流","Sunshine"]}
+{"title":"Sunshine 串流","note_type":"knowledge_summary","description":"Sunshine 串流电脑相关方法","tags":["串流","Sunshine"],"create_time":"2024-07-29","update_time":"2025-02-19","dg-home":false,"dg-publish":true,"aliase":null,"knowledge_type":"其他归纳","root":"知识仓库目录","permalink":"/04-知识仓库/归纳目录/06-其他归纳/Sunshine 串流/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-07-29","updated":"2025-02-19"}
 ---
 
 

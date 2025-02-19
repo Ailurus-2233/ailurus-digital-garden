@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04//02/avalonia/","title":"Avalonia 入门","tags":["Avalonia","WFP"]}
+{"title":"Avalonia 入门","note_type":"knowledge_summary","description":"使用 Avalonia 框架开发跨平台桌面应用的方法","tags":["Avalonia","WFP"],"create_time":"2024-08-05","update_time":"2025-02-19","dg-home":false,"dg-publish":true,"aliase":null,"knowledge_type":"入门文档","root":"知识仓库目录","permalink":"/04-知识仓库/归纳目录/02-入门文档/Avalonia 入门/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-08-05","updated":"2025-02-19"}
 ---
 
 

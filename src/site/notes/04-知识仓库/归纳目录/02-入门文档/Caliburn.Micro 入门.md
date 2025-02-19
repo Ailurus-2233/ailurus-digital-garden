@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04//02/caliburn-micro/","title":"Caliburn.Micro 入门"}
+{"title":"Caliburn.Micro 入门","note_type":"knowledge_summary","description":"caliburn-micro 官方入门文档记录","tags":[],"create_time":"2024-08-12","update_time":"2025-02-19","dg-home":false,"dg-publish":true,"aliase":[],"knowledge_type":"入门文档","root":"知识仓库目录","permalink":"/04-知识仓库/归纳目录/02-入门文档/Caliburn.Micro 入门/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-08-12","updated":"2025-02-19"}
 ---
 
 

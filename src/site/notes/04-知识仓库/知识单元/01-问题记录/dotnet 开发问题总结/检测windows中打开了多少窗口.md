@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04//01/dotnet/windows/","title":"检测windows中打开了多少窗口","tags":["csharp","dotnet"]}
+{"title":"检测windows中打开了多少窗口","note_type":"knowledge_base","description":"通过调用系统接口来获取 windows 打开了多少窗口","tags":["csharp","dotnet"],"create_time":"2024-08-12","update_time":"2025-02-19","dg-home":false,"dg-publish":true,"aliase":null,"root":"dotnet 开发问题总结","permalink":"/04-知识仓库/知识单元/01-问题记录/dotnet 开发问题总结/检测windows中打开了多少窗口/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-08-12","updated":"2025-02-19"}
 ---
 
 

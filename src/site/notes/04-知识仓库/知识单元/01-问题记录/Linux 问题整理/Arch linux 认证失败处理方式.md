@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04//01/linux/arch-linux/","title":"Arch linux 认证失败处理方式","tags":["Arch Linux","Linux"]}
+{"title":"Arch linux 认证失败处理方式","note_type":"knowledge_base","description":"Arch Linux pacman 安装软件时认证失败处理方式","tags":["Arch Linux","Linux"],"create_time":"2024-08-12","update_time":"2025-02-19","dg-home":false,"dg-publish":true,"aliase":[],"root":"Linux 问题整理","permalink":"/04-知识仓库/知识单元/01-问题记录/Linux 问题整理/Arch linux 认证失败处理方式/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-08-12","updated":"2025-02-19"}
 ---
 
 

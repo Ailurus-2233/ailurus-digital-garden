@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04//02/prism-sample/16-region-context/","title":"16-RegionContext","tags":["样例代码","Prism","WPF"]}
+{"title":"16-RegionContext","note_type":"knowledge_base","description":"区域上下文设置","tags":["样例代码","Prism","WPF"],"create_time":"2024-07-29","update_time":"2025-02-19","dg-home":false,"dg-publish":true,"aliase":null,"root":"Prism.Sample","permalink":"/04-知识仓库/知识单元/02-入门文档/Prism.Sample/16-RegionContext/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-07-29","updated":"2025-02-19"}
 ---
 
 

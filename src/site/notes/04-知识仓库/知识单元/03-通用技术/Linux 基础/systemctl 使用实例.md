@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04//03/linux/systemctl/","title":"systemctl 使用实例","tags":["Linux","Systemctl"]}
+{"title":"systemctl 使用实例","note_type":"knowledge_base","description":"Systemctl 创建一个简单的服务","tags":["Linux","Systemctl"],"create_time":"2024-08-12","update_time":"2025-02-19","dg-home":false,"dg-publish":true,"aliase":null,"root":"Linux 基础","permalink":"/04-知识仓库/知识单元/03-通用技术/Linux 基础/systemctl 使用实例/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-08-12","updated":"2025-02-19"}
 ---
 
 

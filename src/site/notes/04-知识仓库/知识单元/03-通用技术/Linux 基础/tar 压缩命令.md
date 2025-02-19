@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04//03/linux/tar/","title":"tar 压缩命令","tags":["Linux"]}
+{"title":"tar 压缩命令","note_type":"knowledge_base","description":"Liunx 下常用的压缩相关的指令","tags":["Linux"],"create_time":"2024-08-12","update_time":"2025-02-19","dg-home":false,"dg-publish":true,"aliase":[],"root":"Linux 基础","permalink":"/04-知识仓库/知识单元/03-通用技术/Linux 基础/tar 压缩命令/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-08-12","updated":"2025-02-19"}
 ---
 
 

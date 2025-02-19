@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04//03/docker/piclist/","title":"piclist 自动图床服务部署","tags":["docker","docker compose"]}
+{"title":"piclist 自动图床服务部署","note_type":"knowledge_base","description":"使用 docker-compose 部署 piclist 服务","tags":["docker","docker compose"],"create_time":"2024-08-12","update_time":"2025-02-19","dg-home":false,"dg-publish":true,"aliase":[],"root":"常用 Docker 容器安装","permalink":"/04-知识仓库/知识单元/03-通用技术/常用 Docker 容器安装/piclist 自动图床服务部署/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-08-12","updated":"2025-02-19"}
 ---
 
 

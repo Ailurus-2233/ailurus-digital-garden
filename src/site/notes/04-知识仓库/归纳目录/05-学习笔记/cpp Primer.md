@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04//05/cpp-primer/","title":"cpp Primer","tags":["阅读笔记","cpp"]}
+{"title":"cpp Primer","note_type":"knowledge_summary","description":"《C++ Primer》学习笔记","tags":["阅读笔记","cpp"],"create_time":"2024-08-13","update_time":"2025-02-19","dg-home":false,"dg-publish":true,"aliase":[],"knowledge_type":"学习笔记","root":"知识仓库目录","permalink":"/04-知识仓库/归纳目录/05-学习笔记/cpp Primer/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-08-13","updated":"2025-02-19"}
 ---
 
 

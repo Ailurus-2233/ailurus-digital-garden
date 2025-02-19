@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04//03/prism/","title":"Prism 使用方法","tags":["开源组件","Prism","WPF"]}
+{"title":"Prism 使用方法","note_type":"knowledge_summary","description":"利用 Prism 在 WPF 开发过程中实现 MVVM 的方法","tags":["开源组件","Prism","WPF"],"create_time":"2024-07-19","update_time":"2025-02-19","dg-home":false,"dg-publish":true,"aliase":[],"knowledge_type":"通用技术","root":"知识仓库目录","permalink":"/04-知识仓库/归纳目录/03-通用技术/Prism 使用方法/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-07-19","updated":"2025-02-19"}
 ---
 
 

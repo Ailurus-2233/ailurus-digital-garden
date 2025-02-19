@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04//02/prism-sample/22-confirm-cancel-navigation/","title":"22-ConfirmCancelNavigation","tags":["样例代码","Prism","WPF"]}
+{"title":"22-ConfirmCancelNavigation","note_type":"knowledge_base","description":"确认是否跳转","tags":["样例代码","Prism","WPF"],"create_time":"2024-07-29","update_time":"2025-02-19","dg-home":false,"dg-publish":true,"aliase":null,"root":"Prism.Sample","permalink":"/04-知识仓库/知识单元/02-入门文档/Prism.Sample/22-ConfirmCancelNavigation/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-07-29","updated":"2025-02-19"}
 ---
 
 

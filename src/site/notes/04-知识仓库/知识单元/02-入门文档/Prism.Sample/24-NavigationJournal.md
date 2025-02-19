@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04//02/prism-sample/24-navigation-journal/","title":"24-NavigationJournal","tags":["样例代码","Prism","WPF"]}
+{"title":"24-NavigationJournal","note_type":"knowledge_base","description":"跳转日志的记录","tags":["样例代码","Prism","WPF"],"create_time":"2024-07-29","update_time":"2025-02-19","dg-home":false,"dg-publish":true,"aliase":null,"root":"Prism.Sample","permalink":"/04-知识仓库/知识单元/02-入门文档/Prism.Sample/24-NavigationJournal/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-07-29","updated":"2025-02-19"}
 ---
 
 

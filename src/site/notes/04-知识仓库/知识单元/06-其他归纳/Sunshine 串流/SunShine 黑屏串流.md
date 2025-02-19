@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04//06/sunshine/sun-shine/","title":"SunShine 黑屏串流","tags":["串流","Sunshine"]}
+{"title":"SunShine 黑屏串流","note_type":"knowledge_base","description":null,"tags":["串流","Sunshine"],"create_time":"2024-07-29","update_time":"2025-02-19","dg-home":false,"dg-publish":true,"aliase":null,"knowledge_type":"其他归纳","root":"Sunshine 串流","permalink":"/04-知识仓库/知识单元/06-其他归纳/Sunshine 串流/SunShine 黑屏串流/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-07-29","updated":"2025-02-19"}
 ---
 
 

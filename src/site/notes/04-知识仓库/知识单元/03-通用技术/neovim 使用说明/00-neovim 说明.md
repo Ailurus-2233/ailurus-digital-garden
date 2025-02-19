@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04//03/neovim/00-neovim/","title":"00-neovim 说明","tags":["开发工具","neovim"]}
+{"title":"00-neovim 说明","note_type":"knowledge_base","description":"简述 neovim","tags":["开发工具","neovim"],"create_time":"2024-08-12","update_time":"2025-02-19","dg-home":false,"dg-publish":true,"aliase":null,"root":"neovim 使用说明","permalink":"/04-知识仓库/知识单元/03-通用技术/neovim 使用说明/00-neovim 说明/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-08-12","updated":"2025-02-19"}
 ---
 
 

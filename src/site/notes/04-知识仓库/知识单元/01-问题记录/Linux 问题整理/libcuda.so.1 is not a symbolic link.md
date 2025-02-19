@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04//01/linux/libcuda-so-1-is-not-a-symbolic-link/","title":"libcuda.so.1 is not a symbolic link","tags":["Linux","wsl"]}
+{"title":"libcuda.so.1 is not a symbolic link","note_type":"knowledge_base","description":"wsl 出现 libcuda.so.1 is not a symbolic link 的解决方案","tags":["Linux","wsl"],"create_time":"2024-08-12","update_time":"2025-02-19","dg-home":false,"dg-publish":true,"aliase":null,"root":"Linux 问题整理","permalink":"/04-知识仓库/知识单元/01-问题记录/Linux 问题整理/libcuda.so.1 is not a symbolic link/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-08-12","updated":"2025-02-19"}
 ---
 
 

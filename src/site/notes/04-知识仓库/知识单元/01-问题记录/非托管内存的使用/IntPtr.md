@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04//01//int-ptr/","title":"IntPtr","tags":["csharp","dotnet"]}
+{"title":"IntPtr","note_type":"knowledge_base","description":"IntPtr 说明","tags":["csharp","dotnet"],"create_time":"2025-02-09","update_time":"2025-02-19","dg-home":false,"dg-publish":true,"knowledge_type":"问题记录","root":"非托管内存的使用","permalink":"/04-知识仓库/知识单元/01-问题记录/非托管内存的使用/IntPtr/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-02-09","updated":"2025-02-19"}
 ---
 
 

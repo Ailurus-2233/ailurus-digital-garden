@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04//02/prism-sample/01-bootstrapper-shell/","title":"01-BootstrapperShell","tags":["样例代码","Prism","WPF"]}
+{"title":"01-BootstrapperShell","note_type":"knowledge_base","description":"启动的 Shell 相关配置","tags":["样例代码","Prism","WPF"],"create_time":"2024-07-23","update_time":"2025-02-19","dg-home":false,"dg-publish":true,"aliase":[],"root":"Prism.Sample","permalink":"/04-知识仓库/知识单元/02-入门文档/Prism.Sample/01-BootstrapperShell/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-07-23","updated":"2025-02-19"}
 ---
 
 

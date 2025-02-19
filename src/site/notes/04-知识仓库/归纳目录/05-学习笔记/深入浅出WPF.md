@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04//05/wpf/","title":"深入浅出WPF","tags":["阅读笔记","WPF"]}
+{"title":"深入浅出WPF","note_type":"knowledge_summary","description":"《深入浅出WPF》学习笔记","tags":["阅读笔记","WPF"],"create_time":"2024-08-13","update_time":"2025-02-19","dg-home":false,"dg-publish":true,"aliase":[],"knowledge_type":"学习笔记","root":"知识仓库目录","permalink":"/04-知识仓库/归纳目录/05-学习笔记/深入浅出WPF/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-08-13","updated":"2025-02-19"}
 ---
 
 

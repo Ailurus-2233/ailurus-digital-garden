@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04//02/caliburn-micro/07-simple-io-c/","title":"07-Simple IoC容器","tags":["caliburn-micro","csharp","WPF"]}
+{"title":"07-Simple IoC容器","note_type":"knowledge_base","description":"依赖注入容器 SimpleContainer 的使用方法","tags":["caliburn-micro","csharp","WPF"],"create_time":"2024-08-12","update_time":"2025-02-19","dg-home":false,"dg-publish":true,"aliase":null,"root":"Caliburn.Micro 入门","permalink":"/04-知识仓库/知识单元/02-入门文档/Caliburn.Micro 入门/07-Simple IoC容器/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-08-12","updated":"2025-02-19"}
 ---
 
 

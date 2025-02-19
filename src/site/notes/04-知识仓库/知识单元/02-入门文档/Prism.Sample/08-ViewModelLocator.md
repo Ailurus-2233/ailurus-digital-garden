@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04//02/prism-sample/08-view-model-locator/","title":"08-ViewModelLocator","tags":["样例代码","Prism","WPF"]}
+{"title":"08-ViewModelLocator","note_type":"knowledge_base","description":"为 View 快速绑定对应的 ViewModel","tags":["样例代码","Prism","WPF"],"create_time":"2024-07-25","update_time":"2025-02-19","dg-home":false,"dg-publish":true,"aliase":null,"root":"Prism.Sample","permalink":"/04-知识仓库/知识单元/02-入门文档/Prism.Sample/08-ViewModelLocator/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-07-25","updated":"2025-02-19"}
 ---
 
 

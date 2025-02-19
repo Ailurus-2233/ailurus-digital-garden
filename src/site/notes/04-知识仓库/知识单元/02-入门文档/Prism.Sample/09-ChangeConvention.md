@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04//02/prism-sample/09-change-convention/","title":"09-ChangeConvention","tags":["样例代码","Prism","WPF"]}
+{"title":"09-ChangeConvention","note_type":"knowledge_base","description":"配置自动绑定 View 和 ViewModel","tags":["样例代码","Prism","WPF"],"create_time":"2024-07-25","update_time":"2025-02-19","dg-home":false,"dg-publish":true,"aliase":null,"root":"Prism.Sample","permalink":"/04-知识仓库/知识单元/02-入门文档/Prism.Sample/09-ChangeConvention/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-07-25","updated":"2025-02-19"}
 ---
 
 

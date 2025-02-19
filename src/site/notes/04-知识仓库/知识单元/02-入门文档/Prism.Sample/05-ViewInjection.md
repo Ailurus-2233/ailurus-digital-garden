@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04//02/prism-sample/05-view-injection/","title":"05-ViewInjection","tags":["样例代码","Prism","WPF"]}
+{"title":"05-ViewInjection","note_type":"knowledge_base","description":"动态的调整Region中注册的View","tags":["样例代码","Prism","WPF"],"create_time":"2024-07-24","update_time":"2025-02-19","dg-home":false,"dg-publish":true,"aliase":null,"root":"Prism.Sample","permalink":"/04-知识仓库/知识单元/02-入门文档/Prism.Sample/05-ViewInjection/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-07-24","updated":"2025-02-19"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04//04/pacs/c-echo/","title":"C-ECHO","tags":["医学软件开发","dicom","fo-dicom","pacs"]}
+{"title":"C-ECHO","note_type":"knowledge_base","description":"使用 fo-dicom 尝试与 Pacs 数据库通信","tags":["医学软件开发","dicom","fo-dicom","pacs"],"create_time":"2024-07-15","update_time":"2025-02-19","dg-home":false,"dg-publish":true,"aliase":["连接 Pacs"],"root":"Pacs 信息查询","permalink":"/04-知识仓库/知识单元/04-专业技术/Pacs 信息查询/C-ECHO/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-07-15","updated":"2025-02-19"}
 ---
 
 

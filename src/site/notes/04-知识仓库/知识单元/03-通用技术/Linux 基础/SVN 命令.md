@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04//03/linux/svn/","title":"SVN 命令","tags":["linux","SVN"]}
+{"title":"SVN 命令","note_type":"knowledge_base","description":"SVN 指令的使用方法","tags":["linux","SVN"],"create_time":"2024-08-12","update_time":"2025-02-19","dg-home":false,"dg-publish":true,"aliase":null,"root":"Linux 基础","permalink":"/04-知识仓库/知识单元/03-通用技术/Linux 基础/SVN 命令/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-08-12","updated":"2025-02-19"}
 ---
 
 

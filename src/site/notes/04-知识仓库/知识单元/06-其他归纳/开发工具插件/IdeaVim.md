@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04//06//idea-vim/","title":"IdeaVim","tags":["jetbrains","plugins","visual studio","visual studio code"]}
+{"title":"IdeaVim","note_type":"knowledge_base","description":"为 Jetbrains 提供 vim 操作的插件","tags":["jetbrains","plugins","visual studio","visual studio code"],"create_time":"2024-11-15","update_time":"2025-02-19","dg-home":false,"dg-publish":true,"knowledge_type":"其他归纳","root":"开发工具插件","permalink":"/04-知识仓库/知识单元/06-其他归纳/开发工具插件/IdeaVim/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-11-15","updated":"2025-02-19"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04//05/wpf/02-xaml/","title":"02-从零起步认识XAML","tags":["WPF"]}
+{"title":"02-从零起步认识XAML","note_type":"knowledge_base","description":"深入浅出WPF第二章的学习笔记","tags":["WPF"],"create_time":"2024-03-05","update_time":"2025-02-19","dg-home":false,"dg-publish":true,"aliase":null,"root":"深入浅出WPF","permalink":"/04-知识仓库/知识单元/05-学习笔记/深入浅出WPF/02-从零起步认识XAML/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-03-05","updated":"2025-02-19"}
 ---
 
 

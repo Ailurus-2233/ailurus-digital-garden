@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04//01/linux/","title":"Linux 问题整理","tags":["Linux"]}
+{"title":"Linux 问题整理","note_type":"knowledge_summary","description":"在使用 Linux 过程中出现的一些问题以及解决方案","tags":["Linux"],"create_time":"2024-08-12","update_time":"2025-02-19","dg-home":false,"dg-publish":true,"aliase":[],"knowledge_type":"问题记录","root":"知识仓库目录","permalink":"/04-知识仓库/归纳目录/01-问题记录/Linux 问题整理/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-08-12","updated":"2025-02-19"}
 ---
 
 

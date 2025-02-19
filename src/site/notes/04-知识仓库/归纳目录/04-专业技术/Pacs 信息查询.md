@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04//04/pacs/","title":"Pacs 信息查询","tags":["医学软件开发","dicom","fo-dicom","pacs"]}
+{"title":"Pacs 信息查询","note_type":"knowledge_summary","description":"医疗软件：使用 fo-dicom 进行 dicom 协议请求的方法","tags":["医学软件开发","dicom","fo-dicom","pacs"],"create_time":"2024-07-15","update_time":"2025-02-19","dg-home":false,"dg-publish":true,"aliase":[],"knowledge_type":"专业技术","root":"知识仓库目录","permalink":"/04-知识仓库/归纳目录/04-专业技术/Pacs 信息查询/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-07-15","updated":"2025-02-19"}
 ---
 
 

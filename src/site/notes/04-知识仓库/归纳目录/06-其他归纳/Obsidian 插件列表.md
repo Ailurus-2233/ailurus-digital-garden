@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04//06/obsidian/","title":"Obsidian 插件列表","tags":["插件归纳","Obsidian"]}
+{"title":"Obsidian 插件列表","note_type":"knowledge_summary","description":"归纳总结使用的Obsidian插件，以及对应的使用方法","tags":["插件归纳","Obsidian"],"create_time":"2024-06-17","update_time":"2025-02-19","dg-home":false,"dg-publish":true,"aliase":[],"knowledge_type":"其他归纳","root":"知识仓库目录","permalink":"/04-知识仓库/归纳目录/06-其他归纳/Obsidian 插件列表/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-06-17","updated":"2025-02-19"}
 ---
 
 

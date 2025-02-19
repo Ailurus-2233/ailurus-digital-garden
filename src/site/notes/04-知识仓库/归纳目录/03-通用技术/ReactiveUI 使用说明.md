@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04//03/reactive-ui/","title":"ReactiveUI 使用说明","tags":["dotnet","MVVM","ReactiveUI","WPF"]}
+{"title":"ReactiveUI 使用说明","note_type":"knowledge_summary","description":"ReactiveUI 的使用方法","tags":["dotnet","MVVM","ReactiveUI","WPF"],"create_time":"2024-08-15","update_time":"2025-02-19","dg-home":false,"dg-publish":true,"aliase":[],"knowledge_type":"通用技术","root":"知识仓库目录","permalink":"/04-知识仓库/归纳目录/03-通用技术/ReactiveUI 使用说明/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-08-15","updated":"2025-02-19"}
 ---
 
 

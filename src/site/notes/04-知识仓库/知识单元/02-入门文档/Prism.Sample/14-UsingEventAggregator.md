@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04//02/prism-sample/14-using-event-aggregator/","title":"14-UsingEventAggregator","tags":["样例代码","Prism","WPF"]}
+{"title":"14-UsingEventAggregator","note_type":"knowledge_base","description":"事件聚合器的使用方法","tags":["样例代码","Prism","WPF"],"create_time":"2024-07-29","update_time":"2025-02-19","dg-home":false,"dg-publish":true,"aliase":null,"root":"Prism.Sample","permalink":"/04-知识仓库/知识单元/02-入门文档/Prism.Sample/14-UsingEventAggregator/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-07-29","updated":"2025-02-19"}
 ---
 
 

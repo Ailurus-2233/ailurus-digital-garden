@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04//01/linux/terminals-database-is-inaccessible/","title":"terminals database is inaccessible","tags":["conda","Linux"]}
+{"title":"terminals database is inaccessible","note_type":"knowledge_base","description":"终端报错 terminals database is inaccessible 的解决方案","tags":["conda","Linux"],"create_time":"2024-08-12","update_time":"2025-02-19","dg-home":false,"dg-publish":true,"aliase":null,"root":"Linux 问题整理","permalink":"/04-知识仓库/知识单元/01-问题记录/Linux 问题整理/terminals database is inaccessible/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-08-12","updated":"2025-02-19"}
 ---
 
 

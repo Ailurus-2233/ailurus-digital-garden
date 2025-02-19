@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04//05/wpf/06-binding/","title":"06-深入浅出话Binding","tags":["WPF"]}
+{"title":"06-深入浅出话Binding","note_type":"knowledge_base","description":"深入浅出WPF第六章的学习笔记","tags":["WPF"],"create_time":"2024-03-05","update_time":"2025-02-19","dg-home":false,"dg-publish":true,"aliase":null,"root":"深入浅出WPF","permalink":"/04-知识仓库/知识单元/05-学习笔记/深入浅出WPF/06-深入浅出话Binding/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-03-05","updated":"2025-02-19"}
 ---
 
 

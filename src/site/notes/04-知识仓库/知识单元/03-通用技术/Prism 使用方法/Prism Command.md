@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04//03/prism/prism-command/","title":"Prism Command","tags":["Prism","WPF"]}
+{"title":"Prism Command","note_type":"knowledge_base","description":"在 Prism 中 DelegateCommand 的使用方法","tags":["Prism","WPF"],"create_time":"2024-07-19","update_time":"2025-02-19","dg-home":false,"dg-publish":true,"aliase":[],"root":"Prism 使用方法","permalink":"/04-知识仓库/知识单元/03-通用技术/Prism 使用方法/Prism Command/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-07-19","updated":"2025-02-19"}
 ---
 
 

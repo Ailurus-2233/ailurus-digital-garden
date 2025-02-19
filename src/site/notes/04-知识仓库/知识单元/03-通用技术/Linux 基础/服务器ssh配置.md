@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04//03/linux/ssh/","title":"服务器ssh配置","tags":["Linux","ssh"]}
+{"title":"服务器ssh配置","note_type":"knowledge_base","description":"记录一些服务器ssh配置相关的知识","tags":["Linux","ssh"],"create_time":"2024-07-11","update_time":"2025-02-19","dg-home":false,"dg-publish":true,"aliase":[],"root":"Linux 基础","permalink":"/04-知识仓库/知识单元/03-通用技术/Linux 基础/服务器ssh配置/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-07-11","updated":"2025-02-19"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04//01/wpf/i-command/","title":"使用 ICommand 绑定函数","tags":["WPF"]}
+{"title":"使用 ICommand 绑定函数","note_type":"knowledge_base","description":"ICommand 接口的使用方法","tags":["WPF"],"create_time":"2024-07-19","update_time":"2025-02-19","dg-home":false,"dg-publish":true,"aliase":[],"root":"WPF 开发问题总结","permalink":"/04-知识仓库/知识单元/01-问题记录/WPF 开发问题总结/使用 ICommand 绑定函数/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-07-19","updated":"2025-02-19"}
 ---
 
 

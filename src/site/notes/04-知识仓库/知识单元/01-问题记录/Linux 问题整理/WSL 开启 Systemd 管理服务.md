@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04//01/linux/wsl-systemd/","title":"WSL 开启 Systemd 管理服务","tags":["Linux","wsl"]}
+{"title":"WSL 开启 Systemd 管理服务","note_type":"knowledge_base","description":"开启 Systemd 来管理 wsl 中的服务","tags":["Linux","wsl"],"create_time":"2024-08-12","update_time":"2025-02-19","dg-home":false,"dg-publish":true,"aliase":null,"root":"Linux 问题整理","permalink":"/04-知识仓库/知识单元/01-问题记录/Linux 问题整理/WSL 开启 Systemd 管理服务/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-08-12","updated":"2025-02-19"}
 ---
 
 

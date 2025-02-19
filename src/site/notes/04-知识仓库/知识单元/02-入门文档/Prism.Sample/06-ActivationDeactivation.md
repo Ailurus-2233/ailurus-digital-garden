@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04//02/prism-sample/06-activation-deactivation/","title":"06-ActivationDeactivation"}
+{"title":"06-ActivationDeactivation","note_type":"knowledge_base","description":"对在 Region 中的 View 进行激活","tags":[],"create_time":"2024-07-24","update_time":"2025-02-19","dg-home":false,"dg-publish":true,"aliase":null,"root":"Prism.Sample","permalink":"/04-知识仓库/知识单元/02-入门文档/Prism.Sample/06-ActivationDeactivation/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-07-24","updated":"2025-02-19"}
 ---
 
 

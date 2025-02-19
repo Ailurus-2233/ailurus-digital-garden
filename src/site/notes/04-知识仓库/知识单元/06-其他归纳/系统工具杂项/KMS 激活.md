@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04//06//kms/","title":"KMS 激活"}
+{"title":"KMS 激活","note_type":"knowledge_base","description":null,"tags":[],"create_time":"2025-02-09","update_time":"2025-02-19","dg-home":false,"dg-publish":true,"knowledge_type":"其他归纳","root":"系统工具杂项","permalink":"/04-知识仓库/知识单元/06-其他归纳/系统工具杂项/KMS 激活/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-02-09","updated":"2025-02-19"}
 ---
 
 

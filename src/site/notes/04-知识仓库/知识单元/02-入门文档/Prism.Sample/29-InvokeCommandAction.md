@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04//02/prism-sample/29-invoke-command-action/","title":"29-InvokeCommandAction","tags":["样例代码","Prism","WPF"]}
+{"title":"29-InvokeCommandAction","note_type":"knowledge_base","description":"通过 InvokeCommandAction 调用 ViewModel 中的命令","tags":["样例代码","Prism","WPF"],"create_time":"2024-07-29","update_time":"2025-02-19","dg-home":false,"dg-publish":true,"aliase":[],"root":"Prism.Sample","permalink":"/04-知识仓库/知识单元/02-入门文档/Prism.Sample/29-InvokeCommandAction/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-07-29","updated":"2025-02-19"}
 ---
 
 

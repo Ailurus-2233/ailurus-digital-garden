@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04//01/dotnet/n-unit/","title":"NUnit 单元测试","tags":["csharp","dotnet"]}
+{"title":"NUnit 单元测试","note_type":"knowledge_base","description":"使用  NUnit 进行单元测试的方法","tags":["csharp","dotnet"],"create_time":"2024-08-12","update_time":"2025-02-19","dg-home":false,"dg-publish":true,"aliase":null,"root":"dotnet 开发问题总结","permalink":"/04-知识仓库/知识单元/01-问题记录/dotnet 开发问题总结/NUnit 单元测试/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-08-12","updated":"2025-02-19"}
 ---
 
 
