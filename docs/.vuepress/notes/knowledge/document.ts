@@ -1,0 +1,40 @@
+// 定义知识库入门文档的侧边栏
+import { ThemeSidebarItem } from 'vuepress-theme-plume';
+
+export const documentSidebar = [{
+        text: "Prism 样例代码",
+        collapsed: true,
+        prefix: '/knowledge/document/',
+        link: '/knowledge/document/u9rqy1vc/',
+        items: [
+            { text: "应用启动引导", link: 'tvyvd6f6/', },
+            { text: "区域", link: 'pmxa23wj/', },
+            { text: "自定义区域支持", link: 'scd19l9y/', },
+            { text: "区域注册View", link: 'gg64zvv6/', },
+            { text: "View 注入", link: 'qnyey45i/', },
+            { text: "激活与反激活 View", link: 'wm5kfpnu/', },
+            { text: "Modules加载方法", link: 'wkpq9c6u/', },
+            { text: "ViewModel 自动绑定", link: '32213pho/', },
+            { text: "配置自动绑定", link: 'u8sxwsqu/', },
+            { text: "自定义注册", link: 'aifrayfd/', },
+            { text: "委托命令", link: '6z8eukdk/', },
+            { text: "复合命令", link: '28jciiz4/', },
+            { text: "复合命令执行条件", link: 's6bafpdn/', },
+            { text: "事件聚合器", link: '2c8zk17q/', },
+            { text: "事件聚合器过滤", link: 'raionkiz/', },
+            { text: "区域上下文", link: '1pvqahtx/', },
+            { text: "基本区域导航", link: 'q5zdsest/', },
+            { text: "区域导航回调方法", link: 'cxylj196/', },
+            { text: "导航相关事件", link: '6w6mqrjt/', },
+            { text: "是否可以导航", link: '8f89hfzs/', },
+            { text: "导航参数", link: '4jfdd70j/', },
+            { text: "导航取消", link: '03c5dhql/', },
+            { text: "区域成员的生命周期", link: 'io4pbk7c/', },
+            { text: "导航日志", link: 'pno693m0/', },
+            { text: "对话框服务", link: 'equmvdc1/', },
+            { text: "对话框样式", link: '27vje3ua/', },
+            { text: "自定义窗口代替对话框", link: 'x1zc0ywl/', },
+            { text: "InvokeCommandAction", link: '2wui4kqt/', },
+        ]
+    }, 
+] as ThemeSidebarItem[];
