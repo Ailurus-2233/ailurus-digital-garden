@@ -44,3 +44,7 @@ pnpm docs:dev
 ```
 
 执行完毕后，您可以在浏览器中访问 ` http://localhost:8080/` 来查看本地部署的数字花园。
+
+## 许可证
+
+本项目采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by/4.0/) 协议进行授权。您可以自由复制、分享、修改本项目的内容，但必须保留原作者信息，并在 derivative works 中署名、非商业性使用和相同方式共享。
