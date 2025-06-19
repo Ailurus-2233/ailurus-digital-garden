@@ -4,8 +4,8 @@ import { ThemeSidebarItem } from 'vuepress-theme-plume';
 export const documentSidebar = [{
         text: "Prism 样例代码",
         collapsed: true,
-        prefix: '/knowledge/document/',
-        link: '/knowledge/document/u9rqy1vc/',
+        prefix: '/knowledge/',
+        link: '/knowledge/u9rqy1vc/',
         items: [
             { text: "应用启动引导", link: 'tvyvd6f6/', },
             { text: "区域", link: 'pmxa23wj/', },
@@ -36,5 +36,20 @@ export const documentSidebar = [{
             { text: "自定义窗口代替对话框", link: 'x1zc0ywl/', },
             { text: "InvokeCommandAction", link: '2wui4kqt/', },
         ]
-    }, 
+    }, {
+        text: "Caliburn.Micro",
+        collapsed: true,
+        prefix: '/knowledge/',
+        link: '/knowledge/ni404dm0/',
+        items: [
+            { text: "说明", link: '6f281rz2/' },
+            { text: "快速开始", link: 'fcbckcpl/' },
+            { text: "基本配置、操作和约定", link: 'rukpdvfg/' },
+            { text: "自定义引导程序", link: '9g6cm461/' },
+            { text: "关于Actions", link: 'zplu53kb/' },
+            { text: "命名约定", link: 'ww8jitpc/' },
+            { text: "事件聚合器", link: 'hf2h6rsm/' },
+            { text: "Simple IoC容器", link: 'vvknjjp1/' }
+        ]
+    }
 ] as ThemeSidebarItem[];
