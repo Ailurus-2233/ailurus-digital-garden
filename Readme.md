@@ -36,7 +36,7 @@
 
 安装完成后，在终端中执行以下命令：
 
-```bash
+``` bash
 git clone https://github.com/ailurus-2233/ailurus-digital-garden.git
 cd ailurus-digital-garden
 pnpm install
