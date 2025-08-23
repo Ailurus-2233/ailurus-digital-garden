@@ -1,8 +1,8 @@
 ---
-title: dotnet 开发中非托管内存的使用
+title: C# 开发中非托管内存的使用
 createTime: 2025/06/19 10:04:22
 permalink: /article/thafs0p3/
-tags: [C#, dotnet, 非托管内存]
+tags: [C#, 非托管内存]
 ---
 
 ## 什么是非托管内存

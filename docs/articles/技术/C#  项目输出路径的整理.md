@@ -1,7 +1,8 @@
 ---
-title: dotnet 项目输出路径的整理
+title: C#  项目输出路径的整理
 createTime: 2025/08/20 16:58:24
 permalink: /article/zx8327p7/
+tags: [C#, MSBuild]
 ---
 
 ## 整理路径的目的
