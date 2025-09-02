@@ -35,15 +35,15 @@ import { knowledgeSideBar } from './notes/knowledge'
 // })
 
 
-const projectNote = defineNoteConfig({
-    dir: 'project',
-    link: '/project',
-    sidebar: [
-        {text: "A6ToDoList", link: '/project/A6ToDoList/',},
-        {text: "SpendLog", link: '/project/SpendLog/',},
-        {text: "Dev.Workstation", link: '/project/Dev.Workstation/',},
-    ]
-});
+// const projectNote = defineNoteConfig({
+//     dir: 'project',
+//     link: '/project',
+//     sidebar: [
+//         {text: "A6ToDoList", link: '/project/A6ToDoList/',},
+//         {text: "SpendLog", link: '/project/SpendLog/',},
+//         {text: "Dev.Workstation", link: '/project/Dev.Workstation/',},
+//     ]
+// });
 
 const knowledgeNote = defineNoteConfig({
     dir: 'knowledge',
@@ -59,5 +59,5 @@ const knowledgeNote = defineNoteConfig({
 export default defineNotesConfig({
     dir: 'notes',
     link: '/',
-    notes: [projectNote, knowledgeNote],
+    notes: [knowledgeNote],
 })
