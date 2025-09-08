@@ -19,8 +19,8 @@
  *
  * 通过 `defineNoteConfig` 定义的 note 配置，应该填入 `defineNotesConfig` 的 notes 数组中
  */
-import {defineNoteConfig, defineNotesConfig} from 'vuepress-theme-plume'
-import { knowledgeSideBar } from './notes/knowledge'
+import { defineNoteConfig, defineNotesConfig } from "vuepress-theme-plume";
+import { knowledgeSideBar } from "./notes/knowledge";
 
 // const demoNote = defineNoteConfig({
 //   dir: 'demo',
@@ -34,21 +34,10 @@ import { knowledgeSideBar } from './notes/knowledge'
 //   // sidebar: 'auto',
 // })
 
-
-// const projectNote = defineNoteConfig({
-//     dir: 'project',
-//     link: '/project',
-//     sidebar: [
-//         {text: "A6ToDoList", link: '/project/A6ToDoList/',},
-//         {text: "SpendLog", link: '/project/SpendLog/',},
-//         {text: "Dev.Workstation", link: '/project/Dev.Workstation/',},
-//     ]
-// });
-
 const knowledgeNote = defineNoteConfig({
-    dir: 'knowledge',
-    link: 'knowledge/',
-    sidebar: knowledgeSideBar
+  dir: "knowledge",
+  link: "/knowledge/",
+  sidebar: knowledgeSideBar,
 });
 
 /**
@@ -57,7 +46,7 @@ const knowledgeNote = defineNoteConfig({
  * （DemoNote 为参考示例，如果不需要它，请删除）
  */
 export default defineNotesConfig({
-    dir: 'notes',
-    link: '/',
-    notes: [knowledgeNote],
-})
+  dir: "note",
+  link: "/",
+  notes: [knowledgeNote],
+});
