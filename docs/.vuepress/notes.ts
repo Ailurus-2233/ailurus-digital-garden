@@ -21,6 +21,7 @@
  */
 import { defineNoteConfig, defineNotesConfig } from "vuepress-theme-plume";
 import { knowledgeSideBar } from "./notes/knowledge";
+import {aboutSideBar} from "./notes/about";
 
 // const demoNote = defineNoteConfig({
 //   dir: 'demo',
@@ -40,6 +41,12 @@ const knowledgeNote = defineNoteConfig({
   sidebar: knowledgeSideBar,
 });
 
+const aboutNote = defineNoteConfig({
+  dir: "about",
+  link: "/notes/about/",
+  sidebar: aboutSideBar,
+});
+
 /**
  * 导出所有的 note
  * 每一个 note 都应该填入到 `notes.notes` 数组中
@@ -48,5 +55,5 @@ const knowledgeNote = defineNoteConfig({
 export default defineNotesConfig({
   dir: "note",
   link: "/notes/",
-  notes: [knowledgeNote],
+  notes: [knowledgeNote, aboutNote],
 });

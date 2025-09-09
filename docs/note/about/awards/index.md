@@ -1,6 +1,6 @@
 ---
 title: 证书&成果
-permalink: /about/awards/
+permalink: /notes/about/award/
 createTime: 2025/09/02 14:00:25
 ---
 

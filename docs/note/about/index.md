@@ -1,6 +1,6 @@
 ---
 title: 关于我
-permalink: /about/
+permalink: /notes/about/
 createTime: 2025/06/11 16:58:06
 ---
 

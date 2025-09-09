@@ -13,5 +13,5 @@ export default defineNavbarConfig([
   { text: '归档', link: '/archives/', icon: 'icon-park-outline:box' },
   { text: '分类', link: '/categories/', icon: 'icon-park-outline:category-management' },
   { text: '知识库', link: '/notes/knowledge/', icon: 'icon-park-outline:receive' },
-  { text: '关于我', link: '/about/', icon: 'icon-park-outline:hands' },
+  { text: '关于我', link: '/notes/about/', icon: 'icon-park-outline:hands' },
 ])

@@ -1,17 +1,13 @@
 import {ThemeSidebarItem} from "vuepress-theme-plume";
 
 class SideBarNode {
-    text: string
-    link: string
-    prefix: string
-    collapsed: boolean | undefined
+    title: string
+    link: string = ""
+    prefix: string = ""
+    collapsed: boolean | undefined = undefined
     items: SideBarNode[]
 
-    constructor(text: string, link: string, prefix = "", collapsed=undefined) {
-        this.text = text;
-        this.link = link;
-        this.prefix = prefix;
-        this.collapsed = collapsed;
+    constructor() {
     }
 
     addItem(item: SideBarNode) {
@@ -23,8 +19,8 @@ class SideBarNode {
 
     toThemeSidebarItem(): ThemeSidebarItem {
         let themeSidebarItem: ThemeSidebarItem = {
-            text: this.text,
-            link: this.link,
+            text: this.title,
+            link: this.link == "" ? undefined : this.link,
             prefix: this.prefix,
             collapsed: this.collapsed,
             items: []
@@ -46,4 +42,14 @@ function GenerateSidebar(root: SideBarNode[]): ThemeSidebarItem[] {
     return result;
 }
 
-export {SideBarNode, GenerateSidebar};
+function GenerateNode(title: string, link: string = "", prefix: string = "", collapsed: boolean | undefined = undefined, items: SideBarNode[] = []): SideBarNode {
+    const node = new SideBarNode();
+    node.title = title;
+    node.prefix = prefix;
+    node.link = link;
+    node.collapsed = collapsed;
+    node.items = items;
+    return node;
+}
+
+export {SideBarNode, GenerateSidebar, GenerateNode};

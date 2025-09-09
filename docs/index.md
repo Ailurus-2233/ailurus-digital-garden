@@ -24,4 +24,8 @@ config:
           text: 知识库
           link:  /notes/knowledge/
           theme: brand
+        -
+          text: 关于我
+          link:  /notes/about/
+          theme: alt
 ---
