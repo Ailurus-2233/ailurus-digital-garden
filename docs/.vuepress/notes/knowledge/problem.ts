@@ -1,4 +1,4 @@
 // 定义知识库入门文档的侧边栏
-import { ThemeSidebarItem } from 'vuepress-theme-plume';
+import {SideBarNode} from "../sideBarGenerator";
 
-export const problemSidebar = [] as ThemeSidebarItem[];
+export const problemItems = [] as SideBarNode[];

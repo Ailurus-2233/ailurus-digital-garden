@@ -1,57 +1,44 @@
 // 定义知识库入门文档的侧边栏
-import {ThemeSidebarItem} from "vuepress-theme-plume";
+import {SideBarNode} from "../sideBarGenerator";
 
-export const documentSidebar = [
-    {
-        text: "Prism 样例代码",
-        collapsed: true,
-        link: "Prism-Sample/",
-        prefix: "Prism-Sample/",
-        items: [
-            {text: "应用启动引导", link: "tvyvd6f6/"} as ThemeSidebarItem,
-            {text: "区域", link: "pmxa23wj/"} as ThemeSidebarItem,
-            {text: "自定义区域支持", link: "scd19l9y/"} as ThemeSidebarItem,
-            {text: "区域注册View", link: "gg64zvv6/"} as ThemeSidebarItem,
-            {text: "View 注入", link: "qnyey45i/"} as ThemeSidebarItem,
-            {text: "激活与反激活 View", link: "wm5kfpnu/"} as ThemeSidebarItem,
-            {text: "Modules加载方法", link: "wkpq9c6u/"} as ThemeSidebarItem,
-            {text: "ViewModel 自动绑定", link: "32213pho/"} as ThemeSidebarItem,
-            {text: "配置自动绑定", link: "u8sxwsqu/"} as ThemeSidebarItem,
-            {text: "自定义注册", link: "aifrayfd/"} as ThemeSidebarItem,
-            {text: "委托命令", link: "6z8eukdk/"} as ThemeSidebarItem,
-            {text: "复合命令", link: "28jciiz4/"} as ThemeSidebarItem,
-            {text: "复合命令执行条件", link: "s6bafpdn/"} as ThemeSidebarItem,
-            {text: "事件聚合器", link: "2c8zk17q/"} as ThemeSidebarItem,
-            {text: "事件聚合器过滤", link: "raionkiz/"} as ThemeSidebarItem,
-            {text: "区域上下文", link: "1pvqahtx/"} as ThemeSidebarItem,
-            {text: "基本区域导航", link: "q5zdsest/"} as ThemeSidebarItem,
-            {text: "区域导航回调方法", link: "cxylj196/"} as ThemeSidebarItem,
-            {text: "导航相关事件", link: "6w6mqrjt/"} as ThemeSidebarItem,
-            {text: "是否可以导航", link: "8f89hfzs/"} as ThemeSidebarItem,
-            {text: "导航参数", link: "4jfdd70j/"} as ThemeSidebarItem,
-            {text: "导航取消", link: "03c5dhql/"} as ThemeSidebarItem,
-            {text: "区域成员的生命周期", link: "io4pbk7c/"} as ThemeSidebarItem,
-            {text: "导航日志", link: "pno693m0/"} as ThemeSidebarItem,
-            {text: "对话框服务", link: "equmvdc1/"} as ThemeSidebarItem,
-            {text: "对话框样式", link: "27vje3ua/"} as ThemeSidebarItem,
-            {text: "自定义窗口代替对话框", link: "x1zc0ywl/"} as ThemeSidebarItem,
-            {text: "InvokeCommandAction", link: "2wui4kqt/"} as ThemeSidebarItem,
-        ],
-    },
-    {
-        text: "Caliburn.Micro",
-        collapsed: true,
-        link: "Caliburn.Micro/",
-        prefix: "Caliburn.Micro/",
-        items: [
-            {text: "说明", link: "6f281rz2/"} as ThemeSidebarItem,
-            {text: "快速开始", link: "fcbckcpl/"} as ThemeSidebarItem,
-            {text: "基本配置、操作和约定", link: "rukpdvfg/"} as ThemeSidebarItem,
-            {text: "自定义引导程序", link: "9g6cm461/"} as ThemeSidebarItem,
-            {text: "关于Actions", link: "zplu53kb/"} as ThemeSidebarItem,
-            {text: "命名约定", link: "ww8jitpc/"} as ThemeSidebarItem,
-            {text: "事件聚合器", link: "hf2h6rsm/"} as ThemeSidebarItem,
-            {text: "Simple IoC容器", link: "vvknjjp1/"} as ThemeSidebarItem,
-        ],
-    },
-] as ThemeSidebarItem[];
+const prism_sample = new SideBarNode("Prism 样例代码", "Prism-Sample/", "Prism-Sample/", true);
+prism_sample.addItem(new SideBarNode("应用启动引导", "tvyvd6f6/"));
+prism_sample.addItem(new SideBarNode("区域", "pmxa23wj/"));
+prism_sample.addItem(new SideBarNode("自定义区域支持", "scd19l9y/"));
+prism_sample.addItem(new SideBarNode("区域注册View", "gg64zvv6/"));
+prism_sample.addItem(new SideBarNode("View 注入", "qnyey45i/"));
+prism_sample.addItem(new SideBarNode("激活与反激活 View", "wm5kfpnu/"));
+prism_sample.addItem(new SideBarNode("Modules加载方法", "wkpq9c6u/"));
+prism_sample.addItem(new SideBarNode("ViewModel 自动绑定", "32213pho/"));
+prism_sample.addItem(new SideBarNode("配置自动绑定", "u8sxwsqu/"));
+prism_sample.addItem(new SideBarNode("自定义注册", "aifrayfd/"));
+prism_sample.addItem(new SideBarNode("委托命令", "6z8eukdk/"));
+prism_sample.addItem(new SideBarNode("复合命令", "28jciiz4/"));
+prism_sample.addItem(new SideBarNode("复合命令执行条件", "s6bafpdn/"));
+prism_sample.addItem(new SideBarNode("事件聚合器", "2c8zk17q/"));
+prism_sample.addItem(new SideBarNode("事件聚合器过滤", "raionkiz/"));
+prism_sample.addItem(new SideBarNode("区域上下文", "1pvqahtx/"));
+prism_sample.addItem(new SideBarNode("基本区域导航", "q5zdsest/"));
+prism_sample.addItem(new SideBarNode("区域导航回调方法", "cxylj196/"));
+prism_sample.addItem(new SideBarNode("导航相关事件", "6w6mqrjt/"));
+prism_sample.addItem(new SideBarNode("是否可以导航", "8f89hfzs/"));
+prism_sample.addItem(new SideBarNode("导航参数", "4jfdd70j/"));
+prism_sample.addItem(new SideBarNode("导航取消", "03c5dhql/"));
+prism_sample.addItem(new SideBarNode("区域成员的生命周期", "io4pbk7c/"));
+prism_sample.addItem(new SideBarNode("导航日志", "pno693m0/"));
+prism_sample.addItem(new SideBarNode("对话框服务", "equmvdc1/"));
+prism_sample.addItem(new SideBarNode("对话框样式", "27vje3ua/"));
+prism_sample.addItem(new SideBarNode("自定义窗口代替对话框", "x1zc0ywl/"));
+prism_sample.addItem(new SideBarNode("InvokeCommandAction", "2wui4kqt/"));
+
+const caliburn_micro = new SideBarNode("Caliburn.Micro", "Caliburn.Micro/", "Caliburn.Micro/", true);
+caliburn_micro.addItem(new SideBarNode("说明", "6f281rz2/"));
+caliburn_micro.addItem(new SideBarNode("快速开始", "fcbckcpl/"));
+caliburn_micro.addItem(new SideBarNode("基本配置、操作和约定", "rukpdvfg/"));
+caliburn_micro.addItem(new SideBarNode("自定义引导程序", "9g6cm461/"));
+caliburn_micro.addItem(new SideBarNode("关于Actions", "zplu53kb/"));
+caliburn_micro.addItem(new SideBarNode("命名约定", "ww8jitpc/"));
+caliburn_micro.addItem(new SideBarNode("事件聚合器", "hf2h6rsm/"));
+caliburn_micro.addItem(new SideBarNode("Simple IoC容器", "vvknjjp1/"));
+
+export const documentItems = [prism_sample, caliburn_micro] as SideBarNode[];
