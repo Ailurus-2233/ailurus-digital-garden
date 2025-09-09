@@ -1,7 +1,7 @@
 ---
 title: Caliburn.Micro 入门
 createTime: 2025/06/19 09:41:16
-permalink: /knowledge/document/Caliburn.Micro/
+permalink:  /notes/knowledge/document/Caliburn.Micro/
 ---
 
 caliburn-micro 官方入门文档记录

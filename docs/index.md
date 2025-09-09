@@ -22,6 +22,6 @@ config:
           theme: alt
         -
           text: 知识库
-          link: /knowledge/
+          link:  /notes/knowledge/
           theme: brand
 ---

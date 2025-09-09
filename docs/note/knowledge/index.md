@@ -2,7 +2,7 @@
 title: 个人知识库
 tags: [知识库, 笔记, 学习, 工作]
 createTime: 2025/06/11 13:07:10
-permalink: /knowledge/
+permalink: /notes/knowledge/
 ---
 
 ## 说明
@@ -17,8 +17,8 @@ permalink: /knowledge/
 
 ## 知识库分类依据
 
-- [入门文档](/knowledge/document/)：整理某技术的入门方案，通常是技术官方文档中或入门的内容整理通用的技术点整理
-- [专业技术](/knowledge/expertise/)：在开发过程中，通用技术点整理或者某领域特化的技术点整理
-- [学习笔记](/knowledge/study/)：面向书本的学习笔记
-- [问题记录](/knowledge/problem/)：常见问题的记录和解决方法
-- [其他归纳](/knowledge/other/)：其他不适合上述分类的内容
+- [入门文档](/notes/knowledge/document/)：整理某技术的入门方案，通常是技术官方文档中或入门的内容整理通用的技术点整理
+- [专业技术](/notes/knowledge/expertise/)：在开发过程中，通用技术点整理或者某领域特化的技术点整理
+- [学习笔记](/notes/knowledge/study/)：面向书本的学习笔记
+- [问题记录](/notes/knowledge/problem/)：常见问题的记录和解决方法
+- [其他归纳](/notes/knowledge/other/)：其他不适合上述分类的内容

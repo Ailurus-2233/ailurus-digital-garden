@@ -36,7 +36,7 @@ import { knowledgeSideBar } from "./notes/knowledge";
 
 const knowledgeNote = defineNoteConfig({
   dir: "knowledge",
-  link: "/knowledge/",
+  link: "/notes/knowledge/",
   sidebar: knowledgeSideBar,
 });
 
@@ -47,6 +47,6 @@ const knowledgeNote = defineNoteConfig({
  */
 export default defineNotesConfig({
   dir: "note",
-  link: "/",
+  link: "/notes/",
   notes: [knowledgeNote],
 });

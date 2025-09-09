@@ -5,8 +5,7 @@ export const documentSidebar = [
   {
     text: "Prism 样例代码",
     collapsed: true,
-    link: "/knowledge/document/Prism-Sample/",
-    prefix: "/knowledge/document/Prism-Sample/",
+    link: "Prism-Sample/",
     items: [
       { text: "应用启动引导", link: "tvyvd6f6/" },
       { text: "区域", link: "pmxa23wj/" },
@@ -41,8 +40,7 @@ export const documentSidebar = [
   {
     text: "Caliburn.Micro",
     collapsed: true,
-    link: "/knowledge/document/Caliburn.Micro/",
-    prefix: "/knowledge/document/Caliburn.Micro/",
+    link: "Caliburn.Micro/",
     items: [
       { text: "说明", link: "6f281rz2/" },
       { text: "快速开始", link: "fcbckcpl/" },

@@ -2,7 +2,7 @@
 title: Prisim 样例代码
 tags: [Prism, C#, MVVM, WPF, .NET]
 createTime: 2025/06/10 15:36:32
-permalink: /knowledge/document/Prism-Sample/
+permalink:  /notes/knowledge/document/Prism-Sample/
 ---
 
 Prism 是一个用于构建基于 Windows Presentation Foundation (WPF) 应用程序的框架。它主要用于实现模块化、松耦合、可维护和可测试的应用程序架构。以下是 Prism 框架的几个关键功能和用途：
