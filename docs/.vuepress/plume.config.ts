@@ -33,7 +33,17 @@ export default defineThemeConfig({
    * 文章版权信息
    * @see https://theme-plume.vuejs.press/guide/features/copyright/
    */
-  copyright: true,
+  copyright: {
+    license: {
+      name: 'CC-BY-4.0', // 许可证名称
+      url: 'https://creativecommons.org/licenses/by/4.0/' // 许可证地址
+    },
+    author: {
+      name: 'Ailurus-2233', // 版权所有者名称
+      url: 'https://github.com/Ailurus-2233' // 版权所有者地址
+    },
+    creation: 'original' // 创作方式
+  },
 
   prevPage: true,   // 是否启用上一页链接
   nextPage: true,   // 是否启用下一页链接
