@@ -52,7 +52,7 @@ export default defineThemeConfig({
   /* 站点页脚 */
   footer: {
     message: 'Power by <a target="_blank" href="https://v2.vuepress.vuejs.org/">VuePress</a> & <a target="_blank" href="https://theme-plume.vuejs.press">vuepress-theme-plume</a>',
-    copyright: '豫ICP备2022006334号-2',
+    copyright: '<a target="_blank" rel="noopener noreferrer" href="https://beian.miit.gov.cn">豫ICP备2022006334号-2</a>',
   },
 
   /**
