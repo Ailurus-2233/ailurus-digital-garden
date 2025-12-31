@@ -39,7 +39,7 @@ export default defineThemeConfig({
       url: 'https://creativecommons.org/licenses/by/4.0/' // 许可证地址
     },
     author: {
-      name: 'Ailurus-2233', // 版权所有者名称
+      name: '子雨', // 版权所有者名称
       url: 'https://github.com/Ailurus-2233' // 版权所有者地址
     },
     creation: 'original' // 创作方式
@@ -52,7 +52,7 @@ export default defineThemeConfig({
   /* 站点页脚 */
   footer: {
     message: 'Power by <a target="_blank" href="https://v2.vuepress.vuejs.org/">VuePress</a> & <a target="_blank" href="https://theme-plume.vuejs.press">vuepress-theme-plume</a>',
-    copyright: '',
+    copyright: '豫ICP备2022006334号-2',
   },
 
   /**
@@ -60,8 +60,8 @@ export default defineThemeConfig({
    */
   profile: {
     avatar: './images/user_icon.jpg',
-    name: 'Ailurus Digital Graden',
-    description: '欢迎来到小熊的数字花园<br/> 可以在这里看到我分享的学习笔记、技术总结和一些有趣的知识',
+    name: '子雨',
+    description: '欢迎来到子雨的个人日志<br/> 可以在这里看到我分享的学习笔记、技术总结和一些有趣的知识',
     circle: true,
     location: '江苏-苏州',
     // organization: '',

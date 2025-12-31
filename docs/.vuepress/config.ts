@@ -16,7 +16,7 @@ import { plumeTheme } from 'vuepress-theme-plume'
 export default defineUserConfig({
   base: '/',
   lang: 'zh-CN',
-  title: '小熊の数字花园',
+  title: '子雨的个人日志',
   description: '',
 
   head: [
