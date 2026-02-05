@@ -52,7 +52,7 @@ export default defineThemeConfig({
   /* 站点页脚 */
   footer: {
     message: 'Power by <a target="_blank" href="https://v2.vuepress.vuejs.org/">VuePress</a> & <a target="_blank" href="https://theme-plume.vuejs.press">vuepress-theme-plume</a>',
-    copyright: '',
+    copyright: '<span style="display:inline-flex;align-items:center;gap:12px;flex-wrap:wrap;"><a href="https://beian.mps.gov.cn/#/query/webSearch?code=41900102411084" rel="noreferrer" target="_blank" style="display:inline-flex;align-items:center;white-space:nowrap;gap:0;line-height:1;vertical-align:middle;"><img src="/images/beian_icon.png" style="width:16px;height:16px;display:inline-block;flex:0 0 auto;margin:0;margin-right:1px;vertical-align:middle;"/><span style="margin-left:0;line-height:1;">豫公网安备41900102411084号</span></a><a target="_blank" rel="noopener noreferrer" href="https://beian.miit.gov.cn" style="display:inline-flex;align-items:center;white-space:nowrap;line-height:1;vertical-align:middle;">豫ICP备2022006334号-2</a></span>',
   },
 
   /**
