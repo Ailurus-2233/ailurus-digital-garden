@@ -1,7 +1,11 @@
 ---
 title: WPF开发常用的框架
+createTime: 2026/03/17 09:25:03
+permalink: /blog/njln150k/
+---
+title: WPF开发常用的框架
 createTime: 2025/06/19 09:55:33
-permalink: /article/wzu324rw/
+permalink: /blog/wzu324rw/
 tags: [WPF, C#, MVVM框架]
 ---
 
@@ -51,3 +55,5 @@ tags: [WPF, C#, MVVM框架]
 		2. 虽然支持 ViewModel 自动绑定，但没有像 Caliburn.Micro 那样依赖命名约定全自动，不支持 C# Source Generator（如 CommunityToolkit.Mvvm 的 `[ObservableProperty]`），仍需手写通知代码
 		3. 相比 CommunityToolkit.Mvvm 或 Caliburn.Micro，Prism 的依赖较多
 		4. 不提供 UI 控件或样式包，仅关注架构，UI 需另选配套
+
+

@@ -43,30 +43,6 @@ export default defineUserConfig({
     changelog: false,
 
     /**
-     * 博客
-     * @see https://theme-plume.vuejs.press/config/basic/#blog
-     */
-    // blog: false, // 禁用博客
-    blog: {
-      include: ['article/**\/*.md'],
-      postList: true, // 是否启用文章列表页
-      tags: true, // 是否启用标签页
-      archives: true, // 是否启用归档页
-      categories: true, // 是否启用分类页
-      postCover: 'right', // 文章封面位置
-      pagination: 15, // 每页显示文章数量
-      link: '/articles/',
-      tagsLink: '/tags/',
-      archivesLink: '/archives/',
-      categoriesLink: '/categories/',
-      // 移除 article 分类
-      categoriesTransform: (categories) => categories.filter(category => category.name !== 'article'),
-    },
-
-    /* 博客文章页面链接前缀 */
-    article: '/article/',
-
-    /**
      * 编译缓存，加快编译速度
      * @see https://theme-plume.vuejs.press/config/basic/#cache
      */

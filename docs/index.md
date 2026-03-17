@@ -14,7 +14,7 @@ config:
       actions:
         -
           text: 博客
-          link: /articles/
+          link: /blog/
           theme: brand
         -
           text: Github

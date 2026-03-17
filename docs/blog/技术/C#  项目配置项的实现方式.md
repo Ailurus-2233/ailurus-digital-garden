@@ -1,7 +1,11 @@
 ---
+title: C#  项目配置项的实现方式
+createTime: 2026/03/17 09:25:03
+permalink: /blog/vov9x9x1/
+---
 title: C# 项目配置项的实现方式
 createTime: 2025/09/02 09:57:51
-permalink: /article/1tha8hfh/
+permalink: /blog/1tha8hfh/
 tags: [C#, 配置项管理]
 ---
 
@@ -373,3 +377,4 @@ parser.WriteFile("config.ini", data);
 - 使用 **远程配置中心**（如 Consul、Apollo、etcd）在分布式系统中集中管理配置
 
 这些方式各有优劣，需要根据具体项目的复杂度和部署环境来选择。
+

@@ -1,7 +1,11 @@
 ---
 title: 使用 Hyper-v 创建 OpenWrt 虚拟机
+createTime: 2026/03/17 09:25:03
+permalink: /blog/g331eh17/
+---
+title: 使用 Hyper-v 创建 OpenWrt 虚拟机
 createTime: 2025/09/19 06:57:56
-permalink: /article/zoljh9hq/
+permalink: /blog/zoljh9hq/
 ---
 
 在使用 `Hyper-V` 创建虚拟机时，经常会遇到需要科学上网的场景，例如更新系统、拉取 GitHub 项目等。虽然可以通过 `Clash` 的 `TUN` 模式为宿主机和虚拟机提供代理，但由于 `Hyper-V` 的虚拟交换机（`NAT 网络`）与 `TUN` 虚拟网卡之间可能存在冲突，不仅会导致虚拟机无法正常联网，有时还会影响宿主机的网络稳定性。
@@ -204,3 +208,4 @@ config dhcp 'wan'
 ## 配置其他虚拟机网络
 
 最后，在其他需要使用代理的虚拟机中，将网络适配器设置为 `OpenWrt-Lan`，并确保其网络配置为自动获取 IP 和 DNS。
+

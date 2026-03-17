@@ -1,7 +1,11 @@
 ---
+title: C#  开发中非托管内存的使用
+createTime: 2026/03/17 09:25:03
+permalink: /blog/0mmgj3xq/
+---
 title: C# 开发中非托管内存的使用
 createTime: 2025/06/19 10:04:22
-permalink: /article/thafs0p3/
+permalink: /blog/thafs0p3/
 tags: [C#, 非托管内存]
 ---
 
@@ -173,3 +177,5 @@ public unsafe void InteractWithDevice()
 - **类型安全**：`IntPtr` 是一个不安全的类型，因此在使用时需要小心，避免出现指针错误。
 - **资源释放**：`IntPtr` 通常用于处理非托管资源，需要手动释放资源，以避免内存泄漏。
 - 在使用 `IntPtr` 类型时，通常会与 `unsafe` 代码或其他非托管操作一起使用，以确保数据的正确性和完整性。
+
+

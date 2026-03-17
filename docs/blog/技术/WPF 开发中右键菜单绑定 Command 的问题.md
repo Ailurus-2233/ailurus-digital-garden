@@ -1,7 +1,11 @@
 ---
+title: WPF 开发中右键菜单绑定 Command 的问题
+createTime: 2026/03/17 09:25:03
+permalink: /blog/r3cex2s5/
+---
 title: WPF 开发中右键菜单无法绑定 Command 的问题
 createTime: 2025/08/21 15:42:30
-permalink: /article/2foq6ws1/
+permalink: /blog/2foq6ws1/
 tags: [WPF, C#, MVVM, BindingProxy]
 ---
 
@@ -61,3 +65,4 @@ RowStyle 里直接从 Proxy 拿命令：
   ...
 </ContextMenu>
 ```
+

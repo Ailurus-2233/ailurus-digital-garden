@@ -1,7 +1,11 @@
 ---
 title: C#  项目输出路径的整理
+createTime: 2026/03/17 09:25:03
+permalink: /blog/uhqbtpa2/
+---
+title: C#  项目输出路径的整理
 createTime: 2025/08/20 16:58:24
-permalink: /article/zx8327p7/
+permalink: /blog/zx8327p7/
 tags: [C#, MSBuild]
 ---
 
@@ -397,3 +401,4 @@ private void RefreshRuntimeEnvironmentPath()
 ## 总结
 
 通过以上步骤，我们成功地整理了 .NET 项目的输出路径，确保了项目的依赖项被正确地放置在输出目录中，并且清理了不必要的文件。这不仅减小了最终发布包的体积，也提高了项目的构建效率。在实际应用中，可以根据项目的具体需求，灵活调整 MSBuild 的配置和任务，以达到最佳的构建效果。
+

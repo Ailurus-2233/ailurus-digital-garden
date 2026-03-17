@@ -8,10 +8,10 @@ import { defineNavbarConfig } from 'vuepress-theme-plume'
 
 export default defineNavbarConfig([
   { text: '首页', link: '/', icon: 'icon-park-outline:home' },
-  { text: '博客', link: '/articles/', icon: 'icon-park-outline:document-folder' },
-  { text: '标签', link: '/tags/', icon: 'icon-park-outline:tag-one' },
-  { text: '归档', link: '/archives/', icon: 'icon-park-outline:box' },
-  { text: '分类', link: '/categories/', icon: 'icon-park-outline:category-management' },
+  { text: '博客', link: '/blog/', icon: 'icon-park-outline:document-folder' },
+  { text: '标签', link: '/blog/tags/', icon: 'icon-park-outline:tag-one' },
+  { text: '归档', link: '/blog/archives/', icon: 'icon-park-outline:box' },
+  { text: '分类', link: '/blog/categories/', icon: 'icon-park-outline:category-management' },
   { text: '知识库', link: '/notes/knowledge/', icon: 'icon-park-outline:receive' },
   { text: '关于我', link: '/notes/about/', icon: 'icon-park-outline:hands' },
 ])
