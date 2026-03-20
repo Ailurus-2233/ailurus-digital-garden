@@ -1,8 +1,4 @@
 ---
-title: C#  项目配置项的实现方式
-createTime: 2026/03/17 09:25:03
-permalink: /blog/vov9x9x1/
----
 title: C# 项目配置项的实现方式
 createTime: 2025/09/02 09:57:51
 permalink: /blog/1tha8hfh/

@@ -1,9 +1,5 @@
 ---
 title: WPF开发常用的框架
-createTime: 2026/03/17 09:25:03
-permalink: /blog/njln150k/
----
-title: WPF开发常用的框架
 createTime: 2025/06/19 09:55:33
 permalink: /blog/wzu324rw/
 tags: [WPF, C#, MVVM框架]

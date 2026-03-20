@@ -1,9 +1,5 @@
 ---
 title: C#  项目输出路径的整理
-createTime: 2026/03/17 09:25:03
-permalink: /blog/uhqbtpa2/
----
-title: C#  项目输出路径的整理
 createTime: 2025/08/20 16:58:24
 permalink: /blog/zx8327p7/
 tags: [C#, MSBuild]
