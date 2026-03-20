@@ -7,3 +7,4 @@ permalink: /notes/knowledge/expertise/
 这里整理开发过程中会反复使用、适合长期维护的通用技术说明。
 
 1. [Docker 使用说明与部署](/notes/knowledge/expertise/docker/)
+2. [Neovim 使用说明](/notes/knowledge/expertise/neovim/)
