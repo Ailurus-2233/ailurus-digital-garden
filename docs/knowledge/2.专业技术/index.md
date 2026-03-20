@@ -8,3 +8,4 @@ permalink: /notes/knowledge/expertise/
 
 1. [Docker 使用说明与部署](/notes/knowledge/expertise/docker/)
 2. [Neovim 使用说明](/notes/knowledge/expertise/neovim/)
+3. [Linux 基础](/notes/knowledge/expertise/linux/)

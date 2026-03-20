@@ -57,4 +57,23 @@ neovim.addItem(neovimConfig);
 neovim.addItem(neovimWorkspace);
 neovim.addItem(neovimIndex);
 
-export const expertiseItems = [docker, neovim] as SideBarNode[];
+const linux = GenerateNode("Linux 基础", "linux/", "linux/", true);
+
+const linuxRemote = GenerateNode("远程与网络", "", "", true);
+linuxRemote.addItem(GenerateNode("服务器 SSH 配置", "ssh/"));
+linuxRemote.addItem(GenerateNode("网络管理", "network/"));
+
+const linuxSystem = GenerateNode("系统基础", "", "", true);
+linuxSystem.addItem(GenerateNode("文件权限管理", "permissions/"));
+linuxSystem.addItem(GenerateNode("用户指令", "users/"));
+linuxSystem.addItem(GenerateNode("systemctl 使用实例", "systemctl/"));
+
+const linuxTools = GenerateNode("归档与版本控制", "", "", true);
+linuxTools.addItem(GenerateNode("tar 压缩命令", "tar/"));
+linuxTools.addItem(GenerateNode("SVN 命令", "svn/"));
+
+linux.addItem(linuxRemote);
+linux.addItem(linuxSystem);
+linux.addItem(linuxTools);
+
+export const expertiseItems = [docker, neovim, linux] as SideBarNode[];
