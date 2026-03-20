@@ -76,4 +76,42 @@ linux.addItem(linuxRemote);
 linux.addItem(linuxSystem);
 linux.addItem(linuxTools);
 
-export const expertiseItems = [docker, neovim, linux] as SideBarNode[];
+const pacs = GenerateNode("Pacs 信息查询", "pacs/", "pacs/", true);
+
+const pacsCommunication = GenerateNode("通讯基础", "", "", true);
+pacsCommunication.addItem(GenerateNode("DICOM 通讯基础", "dicom-communication-basics/"));
+pacsCommunication.addItem(GenerateNode("AE Title 与节点配置", "ae-title-and-node/"));
+pacsCommunication.addItem(GenerateNode("SCU 与 SCP 角色说明", "scu-and-scp/"));
+pacsCommunication.addItem(GenerateNode("Association 与 Presentation Context", "association-and-presentation-context/"));
+
+const pacsBasics = GenerateNode("基础组件", "", "", true);
+pacsBasics.addItem(GenerateNode("DicomClient", "dicom-client/"));
+
+const pacsOperations = GenerateNode("查询与传输", "", "", true);
+pacsOperations.addItem(GenerateNode("C-ECHO", "c-echo/"));
+pacsOperations.addItem(GenerateNode("C-FIND", "c-find/"));
+pacsOperations.addItem(GenerateNode("C-MOVE", "c-move/"));
+pacsOperations.addItem(GenerateNode("C-STORE", "c-store/"));
+
+const pacsAdvanced = GenerateNode("扩展 DIMSE 命令", "", "", true);
+pacsAdvanced.addItem(GenerateNode("C-GET", "c-get/"));
+pacsAdvanced.addItem(GenerateNode("基础通信实战", "basic-c-star-workflow/"));
+pacsAdvanced.addItem(GenerateNode("N-ACTION", "n-action/"));
+pacsAdvanced.addItem(GenerateNode("N-EVENT-REPORT", "n-event-report/"));
+
+const pacsCommitment = GenerateNode("Storage Commitment 实战", "", "", true);
+pacsCommitment.addItem(GenerateNode("Storage Commitment 流程总览", "storage-commitment-overview/"));
+pacsCommitment.addItem(GenerateNode("发送影像并发起存储承诺", "storage-commitment-send/"));
+pacsCommitment.addItem(GenerateNode("接收承诺结果与状态回写", "storage-commitment-receive/"));
+
+const pacsEndToEnd = GenerateNode("完整 PACS 通信实战", "", "", true);
+pacsEndToEnd.addItem(GenerateNode("完整通信实战", "end-to-end-workflow/"));
+
+pacs.addItem(pacsCommunication);
+pacs.addItem(pacsBasics);
+pacs.addItem(pacsOperations);
+pacs.addItem(pacsAdvanced);
+pacs.addItem(pacsCommitment);
+pacs.addItem(pacsEndToEnd);
+
+export const expertiseItems = [docker, neovim, linux, pacs] as SideBarNode[];
